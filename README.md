@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding for 8+ years now<br>📚 I'm currently pursuing MSc Computer Systems Engineering<br>🎯 Goals: Delivering innovative engineering solutions<br>🎲 Fun fact: Refactoring is key to maintaining code base</p>
+<p align="left">✨ Coding for 8+ years now<br>📚 I hold MSc Computer Systems Engineering degree<br>🎯 Goals: Delivering innovative engineering solutions<br>🎲 Fun fact: Refactoring is key to maintaining code base</p>
 
 ###
 
